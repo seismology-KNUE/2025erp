@@ -1,13 +1,13 @@
 {
   "files": {
     "main.css": "/2025erp/static/css/main.054d5849.css",
-    "main.js": "/2025erp/static/js/main.c9c77faa.js",
+    "main.js": "/2025erp/static/js/main.94c46853.js",
     "index.html": "/2025erp/index.html",
     "main.054d5849.css.map": "/2025erp/static/css/main.054d5849.css.map",
-    "main.c9c77faa.js.map": "/2025erp/static/js/main.c9c77faa.js.map"
+    "main.94c46853.js.map": "/2025erp/static/js/main.94c46853.js.map"
   },
   "entrypoints": [
     "static/css/main.054d5849.css",
-    "static/js/main.c9c77faa.js"
+    "static/js/main.94c46853.js"
   ]
 }
