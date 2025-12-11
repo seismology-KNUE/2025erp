@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/earthquake-literacy/static/css/main.054d5849.css",
+    "main.js": "/earthquake-literacy/static/js/main.36536114.js",
+    "index.html": "/earthquake-literacy/index.html",
+    "main.054d5849.css.map": "/earthquake-literacy/static/css/main.054d5849.css.map",
+    "main.36536114.js.map": "/earthquake-literacy/static/js/main.36536114.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.054d5849.css",
+    "static/js/main.36536114.js"
+  ]
+}
